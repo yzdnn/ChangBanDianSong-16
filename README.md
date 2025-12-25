@@ -4,34 +4,19 @@
   
 「长坂点宋 16」是基于 「[KHドットフォントシリーズ](http://jikasei.me/font/kh-dotfont/)」中的「KHドット道玄坂16」增补部分简繁体汉字的 16px 点阵粗宋体，适合在复古风格的游戏和招牌中使用。
 
-与「长坂点宋 12」不同，本企划分为了简体字形版（SC后缀）和繁体字形版（TC后缀）两种版本。
+与「长坂点宋 12」不同，本项目分为了简体字形版（SC后缀）和繁体字形版（TC后缀）两种版本。
 
-欢迎对本企划提出宝贵的意见。
+欢迎对本项目提出宝贵的意见。
 
-**～修改内容～**
+ **～介绍图～**
 
-与原字体相比，本字体增补了部分中文汉字与注音符号，并调整部分汉字字形，使其更加接近中文写法。
-
-目前完成了以下字符集收录的汉字的增补：
-
-简体中文：
-
-GB/T 2312、现代汉语常用字表、义务教育语文课程常用字表
-
-繁体中文：
-
-GB/T 12345、常用国字标准字体表、Big5常用汉字表、常用字字形表
-
-日文：
-
-IBM拡張文字
-
-
-**～预览图～**（建议查看大图）
-
-<img width="1100" height="550" alt="preview-SC" src="https://github.com/user-attachments/assets/5684eed1-a2c8-4e3b-87cd-28c02b37551c" />
-<img width="1100" height="550" alt="preview-TC" src="https://github.com/user-attachments/assets/d86ed4bd-370c-478f-b74a-ccf34c5eefaa" />
-
+<img width="540" height="720" alt="1" src="https://github.com/user-attachments/assets/54db7c46-1e8e-4d69-a819-8159b8b60b0e" />
+<img width="540" height="720" alt="2" src="https://github.com/user-attachments/assets/5acb11ee-329b-4d41-b558-65888a9345f3" />
+<img width="540" height="720" alt="3" src="https://github.com/user-attachments/assets/bead995c-38e0-45d2-a393-21176b73c0fd" />
+<img width="540" height="720" alt="4" src="https://github.com/user-attachments/assets/e8dae1ee-b2ab-4ec7-8719-e5c6dca39d67" />
+<img width="540" height="720" alt="5" src="https://github.com/user-attachments/assets/fce4e751-2a0f-4607-b3c7-e894a68253bd" />
+<img width="540" height="720" alt="6" src="https://github.com/user-attachments/assets/18926b47-ed6e-4f98-aa13-eb100d09c583" />
+<img width="540" height="720" alt="7" src="https://github.com/user-attachments/assets/e5801796-f3bf-421e-9d33-d21b682304be" />
 
 **～缺字、错字反馈～**
 
